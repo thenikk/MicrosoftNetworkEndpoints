@@ -1,7 +1,5 @@
 trigger:
 - master
-variables:
- - group: AzureAppRegistration
 pool:
   vmImage: ubuntu-latest
 steps:
