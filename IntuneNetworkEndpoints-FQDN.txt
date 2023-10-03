@@ -58,6 +58,7 @@ intunecdnpeasd.azureedge.net
 *.vortex.data.microsoft.com
 edge.skype.com
 remoteassistanceprodacs.communication.azure.com
+wcpstatic.microsoft.com
 lgmsapeweu.blob.core.windows.net
 intunemaape1.eus.attest.azure.net
 intunemaape10.weu.attest.azure.net
