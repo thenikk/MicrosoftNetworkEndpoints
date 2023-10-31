@@ -14,7 +14,6 @@ mlccdn.blob.core.windows.net
 aka.ms
 *.users.storage.live.com
 adl.windows.com
-*.mstea.ms
 *.secure.skypeassets.com
 mlccdnprod.azureedge.net
 *.sharepoint.com

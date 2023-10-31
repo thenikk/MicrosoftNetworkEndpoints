@@ -75,3 +75,4 @@ intunemaape5.scus.attest.azure.net
 intunemaape7.neu.attest.azure.net
 intunemaape8.neu.attest.azure.net
 intunemaape9.neu.attest.azure.net
+*.webpubsub.azure.com
