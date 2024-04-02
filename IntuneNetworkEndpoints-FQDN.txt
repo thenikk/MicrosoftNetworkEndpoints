@@ -78,5 +78,6 @@ intunemaape7.neu.attest.azure.net
 intunemaape8.neu.attest.azure.net
 intunemaape9.neu.attest.azure.net
 *.webpubsub.azure.com
-gcc.remoteassistanceweb.usgov.communication.azure.us
+*.gov.teams.microsoft.us
+remoteassistanceweb-gcc.usgov.communication.azure.us
 config.edge.skype.com

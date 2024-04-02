@@ -1,3 +1,4 @@
+outlook.cloud.microsoft
 outlook.office.com
 outlook.office365.com
 smtp.office365.com
