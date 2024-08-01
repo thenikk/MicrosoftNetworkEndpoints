@@ -32,10 +32,6 @@ oneclient.sfx.ms
 *.sharepointonline.com
 spoprod-a.akamaihd.net
 *.svc.ms
-*.microsoftstream.com
-nps.onyx.azure.net
-*.azureedge.net
-*.media.azure.net
 *.officeapps.live.com
 *.online.office.com
 office.live.com
@@ -121,6 +117,7 @@ informationprotection.hosting.portal.azure.net
 dc.services.visualstudio.com
 mem.gfx.ms
 staffhub.ms
+staffhubweb.azureedge.net
 *.msocdn.com
 *.onmicrosoft.com
 o15.officeredir.microsoft.com

@@ -4,11 +4,10 @@ manage.microsoft.com
 *.prod.do.dsp.mp.microsoft.com
 *.update.microsoft.com
 *.windowsupdate.com
+adl.windows.com
 emdl.ws.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 time.windows.com
-www.msftconnecttest.com
-www.msftncsi.com
 *.s-microsoft.com
 clientconfig.passport.net
 windowsphone.com
@@ -79,5 +78,6 @@ intunemaape8.neu.attest.azure.net
 intunemaape9.neu.attest.azure.net
 *.webpubsub.azure.com
 *.gov.teams.microsoft.us
-remoteassistanceweb-gcc.usgov.communication.azure.us
+remoteassistanceweb.usgov.communication.azure.us
 config.edge.skype.com
+go.microsoft.com
