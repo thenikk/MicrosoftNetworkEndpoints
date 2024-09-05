@@ -80,4 +80,3 @@ intunemaape9.neu.attest.azure.net
 *.gov.teams.microsoft.us
 remoteassistanceweb.usgov.communication.azure.us
 config.edge.skype.com
-go.microsoft.com

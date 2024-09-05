@@ -85,9 +85,9 @@ policykeyservice.dc.ad.msft.net
 compliance.microsoft.com
 defender.microsoft.com
 protection.office.com
+purview.microsoft.com
 security.microsoft.com
 *.portal.cloudappsecurity.com
-*.blob.core.windows.net
 firstpartyapps.oaspapps.com
 prod.firstpartyapps.oaspapps.com.akadns.net
 telemetryservice.firstpartyapps.oaspapps.com
