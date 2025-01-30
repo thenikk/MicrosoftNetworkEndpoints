@@ -5,7 +5,6 @@ manage.microsoft.com
 *.update.microsoft.com
 *.windowsupdate.com
 adl.windows.com
-emdl.ws.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 time.windows.com
 *.s-microsoft.com
@@ -80,3 +79,9 @@ intunemaape9.neu.attest.azure.net
 *.gov.teams.microsoft.us
 remoteassistanceweb.usgov.communication.azure.us
 config.edge.skype.com
+contentauthassetscdn-prod.azureedge.net
+contentauthassetscdn-prodeur.azureedge.net
+contentauthrafcontentcdn-prod.azureedge.net
+contentauthrafcontentcdn-prodeur.azureedge.net
+fd.api.orgmsg.microsoft.com
+ris.prod.api.personalization.ideas.microsoft.com

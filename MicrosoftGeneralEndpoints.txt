@@ -14,11 +14,10 @@ teams.cloud.microsoft
 teams.microsoft.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net
-mlccdn.blob.core.windows.net
 aka.ms
 *.users.storage.live.com
 adl.windows.com
-*.secure.skypeassets.com
+join.secure.skypeassets.com
 mlccdnprod.azureedge.net
 *.sharepoint.com
 ssw.live.com
@@ -80,7 +79,6 @@ provisioningapi.microsoftonline.com
 *.msftauthimages.net
 *.phonefactor.net
 enterpriseregistration.windows.net
-policykeyservice.dc.ad.msft.net
 *.protection.office.com
 *.security.microsoft.com
 compliance.microsoft.com
