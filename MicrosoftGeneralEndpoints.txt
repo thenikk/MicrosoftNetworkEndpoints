@@ -87,10 +87,6 @@ protection.office.com
 purview.microsoft.com
 security.microsoft.com
 *.portal.cloudappsecurity.com
-firstpartyapps.oaspapps.com
-prod.firstpartyapps.oaspapps.com.akadns.net
-telemetryservice.firstpartyapps.oaspapps.com
-wus-firstpartyapps.oaspapps.com
 *.aria.microsoft.com
 *.events.data.microsoft.com
 *.o365weve.com
@@ -168,7 +164,6 @@ www.sway.com
 *.symcd.com
 *.verisign.com
 *.verisign.net
-apps.identrust.com
 cacerts.digicert.com
 cert.int-x3.letsencrypt.org
 crl.globalsign.com
@@ -183,6 +178,7 @@ ocsp.globalsign.com
 ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com
+oneocsp.microsoft.com
 secure.globalsign.com
 www.digicert.com
 www.microsoft.com
