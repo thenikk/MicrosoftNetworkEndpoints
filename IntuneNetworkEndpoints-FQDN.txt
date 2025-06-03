@@ -33,7 +33,6 @@ swdin02-mscdn.azureedge.net
 *.wns.windows.com
 *.dl.delivery.mp.microsoft.com
 *.do.dsp.mp.microsoft.com
-*.emdl.ws.microsoft.com
 ekcert.spserv.microsoft.com
 ekop.intel.com
 ftpm.amd.com
