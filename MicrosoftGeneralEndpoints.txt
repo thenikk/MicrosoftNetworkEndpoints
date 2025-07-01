@@ -15,12 +15,10 @@ teams.microsoft.com
 *.keydelivery.mediaservices.windows.net
 *.streaming.mediaservices.windows.net
 aka.ms
-*.users.storage.live.com
 adl.windows.com
 join.secure.skypeassets.com
 mlccdnprod.azureedge.net
 *.sharepoint.com
-ssw.live.com
 storage.live.com
 *.search.production.apac.trafficmanager.net
 *.search.production.emea.trafficmanager.net
@@ -140,8 +138,6 @@ www.acompli.com
 *.appex.bing.com
 c.bing.com
 c.live.com
-d.docs.live.net
-docs.live.net
 partnerservices.getmicrosoftkey.com
 signup.live.com
 *.yammer.com

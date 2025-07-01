@@ -1,7 +1,6 @@
 *.manage.microsoft.com
 manage.microsoft.com
 *.delivery.mp.microsoft.com
-*.prod.do.dsp.mp.microsoft.com
 *.update.microsoft.com
 *.windowsupdate.com
 adl.windows.com
@@ -31,7 +30,6 @@ swdin01-mscdn.azureedge.net
 swdin02-mscdn.azureedge.net
 *.notify.windows.com
 *.wns.windows.com
-*.dl.delivery.mp.microsoft.com
 *.do.dsp.mp.microsoft.com
 ekcert.spserv.microsoft.com
 ekop.intel.com
