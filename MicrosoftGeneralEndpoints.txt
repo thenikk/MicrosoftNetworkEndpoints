@@ -190,7 +190,6 @@ activity.windows.com
 *.cortana.ai
 admin.microsoft.com
 cdn.uci.officeapps.live.com
-compass-ssl.microsoft.com
 *.cloud.microsoft
 *.static.microsoft
 *.usercontent.microsoft
