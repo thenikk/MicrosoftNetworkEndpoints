@@ -32,7 +32,6 @@ swdin01-mscdn.azureedge.net
 swdin02-mscdn.azureedge.net
 *.notify.windows.com
 *.wns.windows.com
-2.dl.delivery.mp.microsoft.com
 ekcert.spserv.microsoft.com
 ekop.intel.com
 ftpm.amd.com
